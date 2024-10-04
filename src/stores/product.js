@@ -6,7 +6,7 @@ export const useProductStore = defineStore('product', () => {
     { id: 1, name: 'Gibi da Monica', price: 10.00, qty: 30 },
     { id: 2, name: 'Gibi da Cobra', price: 20.00, qty: 50 },
     { id: 3, name: 'Biblia Sagrada', price: 0, qty: 10 },
-    { id: 3, name: 'Gibi Crocodilo', price: 50.00, qty: 10 }
+    { id: 4, name: 'Gibi Crocodilo', price: 50.00, qty: 10 }
 
   ])
 
